@@ -1,0 +1,130 @@
+commit 0b118abb944091deacd788f1d2451bb8cfed3802
+Merge: b04a291 d92d8fa
+Author: ANZHELIKA <angela.pikulina@gmail.com>
+Date:   Sun Oct 15 00:53:56 2023 +0200
+
+    Merge branch 'main' of https://github.com/AnzhelikaBcn/qa_auto_1.2.4 into main
+
+commit b04a2916e12ebb1692fb0e467c3390a19207607a
+Author: ANZHELIKA <angela.pikulina@gmail.com>
+Date:   Sun Oct 15 00:53:32 2023 +0200
+
+    git-reset--mixed
+
+commit d92d8fae61aacc52e90e6bb44ce5517765fdbc1a
+Merge: fb270a4 b32f70e
+Author: ANZHELIKA <angela.pikulina@gmail.com>
+Date:   Sun Oct 15 00:51:41 2023 +0200
+
+    Merge branch 'main' of https://github.com/AnzhelikaBcn/qa_auto_1.2.4 into main
+
+commit fb270a44878579e48fb9a16722a715509d7d3bee
+Author: ANZHELIKA <angela.pikulina@gmail.com>
+Date:   Sun Oct 15 00:51:36 2023 +0200
+
+    correct-git-reset--mixed-second-commit
+
+commit b32f70e18d4ad326b73e4141eadfcbab94b6c60e
+Merge: 225f9ee 96601b2
+Author: ANZHELIKA <angela.pikulina@gmail.com>
+Date:   Sun Oct 15 00:38:56 2023 +0200
+
+    Merge branch 'main' of https://github.com/AnzhelikaBcn/qa_auto_1.2.4 into main
+
+commit 225f9ee286c39995e620baca38ee613e502327c3
+Author: ANZHELIKA <angela.pikulina@gmail.com>
+Date:   Sun Oct 15 00:38:39 2023 +0200
+
+    correct-git-reset--soft-third-commit
+
+commit 96601b20ed7280c23b4370cf81f194737b3ffdc7
+Merge: 233bf7f 9d1d2a0
+Author: ANZHELIKA <angela.pikulina@gmail.com>
+Date:   Sun Oct 15 00:26:11 2023 +0200
+
+    Merge branch 'main' of https://github.com/AnzhelikaBcn/qa_auto_1.2.4 into main
+
+commit 233bf7f2ec0cf395417aa2c52a146131b72a4b19
+Author: ANZHELIKA <angela.pikulina@gmail.com>
+Date:   Sun Oct 15 00:26:06 2023 +0200
+
+    correct-git-reset--soft-second-commit
+
+commit 9d1d2a045b1da28757422653150d8f62f459c7d9
+Merge: 7e4cbbb 7dd72eb
+Author: ANZHELIKA <angela.pikulina@gmail.com>
+Date:   Sun Oct 15 00:19:18 2023 +0200
+
+    Merge branch 'main' of https://github.com/AnzhelikaBcn/qa_auto_1.2.4 into main
+
+commit 7e4cbbbc16981ec2678d02a18908e3533497778e
+Author: ANZHELIKA <angela.pikulina@gmail.com>
+Date:   Sun Oct 15 00:19:04 2023 +0200
+
+    git-reset--soft -for-2-commit
+
+commit 7dd72ebb8071b9623e3dec83c3cded181fd5ab83
+Author: ANZHELIKA <angela.pikulina@gmail.com>
+Date:   Sat Oct 14 23:54:11 2023 +0200
+
+    Third
+
+commit bdabbf98bda332db39fef1f3ef6a73e7a6a3999e
+Author: ANZHELIKA <angela.pikulina@gmail.com>
+Date:   Sat Oct 14 23:52:40 2023 +0200
+
+    Second
+
+commit 27adb9aa38649a38d170710578dc0ee3b6971ece
+Author: ANZHELIKA <angela.pikulina@gmail.com>
+Date:   Sat Oct 14 23:51:04 2023 +0200
+
+    First
+
+commit 26b2d85e07d4806af118739beeadfd5e23ba7caa
+Author: Oksana M <36515885+Melnioks@users.noreply.github.com>
+Date:   Mon Oct 9 09:50:24 2023 +0200
+
+    Update your-task-here.md
+
+commit 93e058d3321dba27a85c21668c2d16de96eb05fe
+Author: ommelnikova <115581444+ommelnikova@users.noreply.github.com>
+Date:   Thu Oct 20 08:42:47 2022 +0200
+
+    Update your-task-here.md
+
+commit 685ce8d7bbcb6780cc0fcde65ea418bf9c880682
+Author: ommelnikova <115581444+ommelnikova@users.noreply.github.com>
+Date:   Fri Oct 14 19:37:47 2022 +0200
+
+    Update README.md
+
+commit 047c4668909c27e1be9fe0abb34fcf6370cd366b
+Author: ommelnikova <115581444+ommelnikova@users.noreply.github.com>
+Date:   Fri Oct 14 19:37:00 2022 +0200
+
+    Update your-task-here.md
+
+commit c2930aad7b19074cd051283f785bb01432b7c230
+Author: ommelnikova <115581444+ommelnikova@users.noreply.github.com>
+Date:   Fri Oct 14 19:36:15 2022 +0200
+
+    Update your-task-here.md
+
+commit 05f3594029bcd7565aaf0eedb3bbae0b253b08ed
+Author: ommelnikova <115581444+ommelnikova@users.noreply.github.com>
+Date:   Fri Oct 14 19:34:42 2022 +0200
+
+    rename task file
+
+commit b85e79d9f428bc7effa6b2052879908817211b3c
+Author: ommelnikova <115581444+ommelnikova@users.noreply.github.com>
+Date:   Fri Oct 14 19:31:45 2022 +0200
+
+    add a task for students
+
+commit d2fa1c4e4a3744232254bfcc3b62da9e3a5be353
+Author: ommelnikova <115581444+ommelnikova@users.noreply.github.com>
+Date:   Fri Oct 14 18:47:25 2022 +0200
+
+    Create README.md
